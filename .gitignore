@@ -9,3 +9,16 @@ bin
 *.user
 *.ini
 *.json
+*.tlog
+*.log
+*.obj
+*.cmake
+*.bin
+*.log
+*.pdb
+*.filters
+*.vcxproj
+CMakeFiles/
+application/
+Debug/
+*.sln
